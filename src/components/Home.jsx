@@ -21,14 +21,17 @@ function Home() {
           href='src/components/Yash-Kapure-CV.pdf'
           target='_blank'
           rel='noopener noreferrer'
-          className='animation active '
+          className='animation active'
         >
           Download My CV
         </a>
       </div>
       <div className='avatar'>
         <div className='card'>
-          <img src='https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg' alt='' />
+          <img
+            src='https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg'
+            alt=''
+          />
           <div className='info'>
             <div>MERN Stack-Developer</div>
           </div>
