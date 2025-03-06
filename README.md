@@ -5,7 +5,7 @@
 
 <h2>Portfolio Details</h2>
 
-<h3>You can check out my portfolio here: [\[Portfolio Link\]](https://yashkapure-git-main-yashs-projects-a76a77c7.vercel.app/)</h3>
+<h3>You can check out my portfolio here: https://yashkapure-git-main-yashs-projects-a76a77c7.vercel.app/</h3>
 
 <h4>Features of My Portfolio</h4>
 
