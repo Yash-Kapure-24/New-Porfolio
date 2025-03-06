@@ -5,7 +5,7 @@
 
 <h2>Portfolio Details</h2>
 
-<h3>You can check out my portfolio here: [Your Portfolio Link]</h3>
+<h3>You can check out my portfolio here: [\[Portfolio Link\]](https://yashkapure-git-main-yashs-projects-a76a77c7.vercel.app/)</h3>
 
 <h4>Features of My Portfolio</h4>
 
@@ -35,4 +35,4 @@ Node.js and Express for backend APIs (if applicable)
 
 LinkedIn: [\[LinkedIn\]](https://www.linkedin.com/in/yash-kapure-64895a268/)
 
-GitHub: [\[GitHub\]](https://www.linkedin.com/in/yash-kapure-64895a268/)
+GitHub: [\[GitHub\]](https://github.com/Yash-Kapure-24)
