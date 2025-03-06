@@ -19,9 +19,6 @@ function Home() {
 
         <a
           href='public/Yash-Kapure-CV.pdf'
-          target='_blank'
-          // rel='noopener noreferrer'
-          // className='animation active'
         >
           Download My CV
         </a>
