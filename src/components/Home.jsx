@@ -18,7 +18,7 @@ function Home() {
         </div>
 
         <a
-          href='/democv.pdf'
+          href='src/components/Yash-Kapure-CV.pdf'
           target='_blank'
           rel='noopener noreferrer'
           className='animation active '
